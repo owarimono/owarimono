@@ -1,128 +1,166 @@
 <!--
+  PUBLIC PROFILE // UNCLASSIFIED
   GitHub Profile README for @owarimono
-  Ultra-professional, clean, and modern.
+  Formal developer dossier style.
 -->
 
 <div align="center">
 
-# Hi, I'm Owarimono 👋
+# OWARIMONO
 
-### Software Developer · Tooling & Desktop Applications
+### SOFTWARE DEVELOPER · SYSTEMS & SECURITY RESEARCH
 
-*Crafting lightweight, efficient, and delightful software that solves real problems.*
+**PUBLIC PROFILE // UNCLASSIFIED**
 
-[![GitHub followers](https://img.shields.io/github/followers/owarimono?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/owarimono)
-[![GitHub stars](https://img.shields.io/github/stars/owarimono?label=Stars&style=for-the-badge&logo=github&color=181717)](https://github.com/owarimono?tab=stars)
-[![Profile Views](https://komarev.com/ghpvc/?username=owarimono&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/owarimono)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a developer passionate about building **fast, minimal, and user-friendly desktop tools**. My work focuses on solving everyday problems with clean design and efficient code. Whether it's a Pomodoro timer, a file renamer, or a plugin for a productivity app, I strive for software that feels invisible yet indispensable.
-
-- 🔭 Currently working on **[Pixeldoro](https://github.com/owarimono/Pixeldoro)** and **[Renamer](https://github.com/owarimono/Renamer)**
-- 🌱 Exploring **TypeScript**, **Rust**, and modern desktop frameworks
-- 👯 Open to collaborate on **open-source** and **desktop utility** projects
-- 💬 Ask me about **Python**, **Electron**, **UI/UX**, or **automation**
-- 📫 Reach me via [GitHub Issues](https://github.com/owarimono) or open a discussion
-
----
-
-## 🚀 Featured Projects
-
-### 👾 Pixeldoro — Pixel-Art Pomodoro Timer
-> A tiny, always-on-top Pomodoro timer for Windows with a pixel-art aesthetic.
-
-[![Pixeldoro](https://img.shields.io/badge/Repository-Pixeldoro-9b59b6?style=for-the-badge&logo=github)](https://github.com/owarimono/Pixeldoro)
-
-- **Featherweight** — single `.exe` (~14 MB) with only one dependency (pygame)
-- **Efficient** — 60 FPS with near-zero CPU usage
-- **Out of the way** — 360×220 borderless window, draggable, always-on-top
-- **Fully customizable** — focus, short break, long break durations, and cycles
-
-**Tech Stack:** `Python` · `Pygame` · `PyInstaller`
-
----
-
-### 📂 Renamer — Automatic File Renamer
-> Drop files into a folder. They get renamed and numbered automatically.
-
-[![Renamer](https://img.shields.io/badge/Repository-Renamer-3498db?style=for-the-badge&logo=github)](https://github.com/owarimono/Renamer)
-
-- **Live folder watching** — files are renamed instantly upon arrival
-- **Two numbering modes** — sequential and part/episode
-- **Live preview** — see the next six filenames before committing
-- **Bilingual** — full English and Persian UI with RTL support
-
-**Tech Stack:** `Electron` · `Node.js` · `Chokidar`
-
----
-
-### 🏷️ Auto Tag Manager — Super Productivity Plugin
-> Automatically applies tags based on keywords in task titles.
-
-[![Auto Tag Manager](https://img.shields.io/badge/Repository-Auto_Tag_Manager-2ecc71?style=for-the-badge&logo=github)](https://github.com/owarimono/super-productivity-auto-tag)
-
-- **Automatic tagging** — tags applied on task creation or edit
-- **Regex support** — advanced pattern matching
-- **Native UI** — matches Super Productivity's light and dark themes
-- **Stats & Import/Export** — easy rule management
-
-**Tech Stack:** `JavaScript` · `HTML` · `Super Productivity Plugin API`
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GITHUB-owarimono-181717?style=for-the-badge&logo=github)](https://github.com/owarimono)
+[![Followers](https://img.shields.io/github/followers/owarimono?label=FOLLOWERS&style=for-the-badge&color=181717)](https://github.com/owarimono)
+[![Stars](https://img.shields.io/github/stars/owarimono?label=STARS&style=for-the-badge&color=181717)](https://github.com/owarimono?tab=stars)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## I. IDENTIFICATION
+
+**Designation:** Owarimono  
+**Role:** Software Developer  
+**Focus Areas:** Desktop Tooling · Systems Programming · Network Security · Artificial Intelligence  
+**Status:** Active — Open to Collaboration
+
+---
+
+## II. MISSION STATEMENT
+
+To design, develop, and maintain lightweight, reliable, and efficient software that addresses real-world operational requirements. The objective is to produce tools that are minimal in footprint, high in performance, and intuitive in operation.
+
+---
+
+## III. AREAS OF INTEREST & ACTIVE RESEARCH
+
+| Domain | Description |
+|--------|-------------|
+| **C Programming** | Systems-level development, memory management, low-level optimization, and POSIX interfaces. |
+| **Linux & FreeBSD** | Operating system internals, kernel concepts, system administration, networking stack, and hardening. |
+| **Network Security** | Protocol analysis, threat modeling, defensive configurations, monitoring, and secure architecture. |
+| **Neural Networks & AI** | Fundamental architectures, model design, training pipelines, and practical applications. |
+| **Desktop Application Development** | Cross-platform utilities, automation, and user-centric tooling. |
+
+---
+
+## IV. TECHNICAL COMPETENCIES
+
+### Languages
+- Python
+- JavaScript / TypeScript
+- C
+- HTML / CSS
+- Shell Scripting
+
+### Frameworks & Runtimes
+- Electron
+- Node.js
+- Pygame
+- POSIX / Unix-like Environments
+
+### Systems & Security
+- Linux
+- FreeBSD
+- Git
+- Network Fundamentals
+- Security Hardening
+
+### Artificial Intelligence
+- Neural Network Fundamentals
+- Model Experimentation
+- Data Processing
+
+---
+
+## V. OPERATIONAL PROJECTS
+
+### PROJECT: PIXELDORO
+**Classification:** Desktop Utility · Productivity  
+**Repository:** [github.com/owarimono/Pixeldoro](https://github.com/owarimono/Pixeldoro)
+
+A lightweight, always-on-top Pomodoro timer for Windows featuring a pixel-art interface.
+
+- Single executable (~14 MB) with minimal dependencies
+- 60 FPS rendering with near-zero CPU utilization
+- Borderless, draggable, always-on-top window (360×220)
+- Configurable focus, short break, long break, and cycle durations
+
+**Technologies:** Python · Pygame · PyInstaller
+
+---
+
+### PROJECT: RENAMER
+**Classification:** Desktop Utility · Automation  
+**Repository:** [github.com/owarimono/Renamer](https://github.com/owarimono/Renamer)
+
+An automatic file renaming and numbering tool with live folder monitoring.
+
+- Real-time folder watching and instant renaming
+- Sequential and part/episode numbering modes
+- Live preview of the next six filenames
+- Bilingual interface (English / Persian) with RTL support
+
+**Technologies:** Electron · Node.js · Chokidar
+
+---
+
+### PROJECT: AUTO TAG MANAGER
+**Classification:** Plugin · Productivity  
+**Repository:** [github.com/owarimono/super-productivity-auto-tag](https://github.com/owarimono/super-productivity-auto-tag)
+
+A Super Productivity plugin that automatically applies tags based on task title keywords.
+
+- Automatic tagging on task creation and edit
+- Regular expression pattern support
+- Native UI integration with light and dark themes
+- Statistics, import, and export capabilities
+
+**Technologies:** JavaScript · HTML · Super Productivity Plugin API
+
+---
+
+## VI. CURRENT DEVELOPMENT DIRECTIVES
+
+| Directive | Objective |
+|-----------|-----------|
+| **C Language Proficiency** | Advance systems programming capabilities and low-level development. |
+| **Linux & FreeBSD Research** | Study kernel architecture, system administration, and Unix-like operating systems. |
+| **Network Security** | Develop expertise in defensive security, protocol analysis, and secure system design. |
+| **Neural Networks & AI** | Build foundational knowledge in model architecture, training, and applied AI. |
+
+---
+
+## VII. GITHUB METRICS
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=owarimono&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=owarimono&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owarimono&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owarimono&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=owarimono&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=owarimono&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=owarimono&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
 
 ---
 
-## 📫 Connect
+## VIII. CONTACT & COLLABORATION
 
-<div align="center">
+**Channel:** [GitHub Issues](https://github.com/owarimono)  
+**Availability:** Open to open-source collaboration and technical discussion.
 
-[![GitHub](https://img.shields.io/badge/GitHub-owarimono-181717?style=for-the-badge&logo=github)](https://github.com/owarimono)
-
-*If you have a project in mind or a question about my work, feel free to open an issue or start a discussion on any of my repositories.*
-
-</div>
+For project-specific inquiries, please open an issue in the relevant repository.
 
 ---
 
 <div align="center">
 
-**⭐ If you find my projects useful, consider starring them — it means a lot!**
+**PUBLIC PROFILE // UNCLASSIFIED**
+
+*This document is a personal developer profile. No government or intelligence agency affiliation is claimed or implied.*
 
 </div>
