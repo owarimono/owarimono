@@ -104,8 +104,17 @@ A Super Productivity plugin that applies tags automatically based on keywords in
 
 ## Contact (´｡• ᵕ •｡`) ♡
 
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-owarimonodesu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:owarimonodesu@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Whenwecry-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Whenwecry)
+[![Spotify](https://img.shields.io/badge/Spotify-Profile-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/31vgy2lyxorbe25gewirgbp5lfoe)
+[![GitHub](https://img.shields.io/badge/GitHub-owarimono-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/owarimono)
+
+</div>
+
 For questions about a specific project, open an issue in the relevant repository.  
-For anything else, reach out through [GitHub](https://github.com/owarimono).
+For everything else, the channels above are the fastest way to reach me.
 
 ---
 
