@@ -1,33 +1,43 @@
+<div align="center">
+
 # Owarimono
 
-Software developer focused on building lightweight desktop tools, with a growing interest in systems programming, network security, and artificial intelligence.
+**Software Developer — Desktop Tooling · Systems · Security · AI**
+
+`C` · `Python` · `JavaScript` · `Linux` · `FreeBSD`
+
+( ˶ˆ ᗜ ˆ˵ )
+
+</div>
 
 ---
 
-## About
+## Profile
 
-I develop small, efficient applications that solve specific problems well. My primary focus is on desktop utilities — tools that are fast, minimal in dependencies, and pleasant to use. Alongside this, I am expanding my foundations in low-level programming, Unix-like operating systems, security, and machine learning.
+I build small, focused software that does one thing well. My work centers on desktop utilities — fast, minimal, and dependable — while I continue to deepen my foundations in systems programming, Unix-like operating systems, network security, and machine learning.
+
+I care about clean design, low overhead, and tools that stay out of the way.
 
 ---
 
-## Currently Learning
+## Currently Learning (˶ᵔ ᵕ ᵔ˶)
 
-| Area | Focus |
-|------|-------|
-| **C** | Systems programming, memory management, POSIX interfaces |
-| **Linux & FreeBSD** | Operating system internals, administration, networking stack, hardening |
-| **Network Security** | Protocol analysis, defensive configuration, secure architecture |
-| **Neural Networks & AI** | Model fundamentals, training pipelines, applied work |
+| Domain | Focus |
+|--------|-------|
+| **C** | Systems programming · memory management · POSIX interfaces |
+| **Linux & FreeBSD** | Kernel concepts · administration · networking stack · hardening |
+| **Network Security** | Protocol analysis · defensive configuration · secure architecture |
+| **Neural Networks & AI** | Model fundamentals · training pipelines · applied work |
 
 ---
 
 ## Projects
 
-### Pixeldoro
+### 👾 Pixeldoro
 A lightweight, always-on-top Pomodoro timer for Windows with a pixel-art interface.
 
 - Single executable (~14 MB) with one dependency (pygame)
-- 60 FPS with near-zero CPU usage
+- 60 FPS rendering with near-zero CPU usage
 - Borderless, draggable, always-on-top window (360×220)
 - Configurable focus, short break, long break, and cycle durations
 
@@ -35,7 +45,7 @@ A lightweight, always-on-top Pomodoro timer for Windows with a pixel-art interfa
 
 ---
 
-### Renamer
+### 📂 Renamer
 An automatic file renaming and numbering tool with live folder monitoring.
 
 - Real-time folder watching and instant renaming
@@ -47,7 +57,7 @@ An automatic file renaming and numbering tool with live folder monitoring.
 
 ---
 
-### Auto Tag Manager
+### 🏷️ Auto Tag Manager
 A Super Productivity plugin that applies tags automatically based on keywords in task titles.
 
 - Automatic tagging on task creation and edit
@@ -59,7 +69,7 @@ A Super Productivity plugin that applies tags automatically based on keywords in
 
 ---
 
-## Tools & Technologies
+## Toolbox (๑>◡<๑)
 
 **Languages**
 
@@ -80,7 +90,7 @@ A Super Productivity plugin that applies tags automatically based on keywords in
 
 ---
 
-## GitHub
+## GitHub Metrics (๑˃̵ᴗ˂̵)
 
 <div align="center">
 
@@ -92,12 +102,17 @@ A Super Productivity plugin that applies tags automatically based on keywords in
 
 ---
 
-## Contact
+## Contact (´｡• ᵕ •｡`) ♡
 
-For questions about a specific project, open an issue in the relevant repository. For anything else, reach out through [GitHub](https://github.com/owarimono).
+For questions about a specific project, open an issue in the relevant repository.  
+For anything else, reach out through [GitHub](https://github.com/owarimono).
 
 ---
 
 <div align="center">
-  <sub>Built with focus. Maintained with intent. (⌐■_■)</sub>
+
+*Built with focus. Maintained with intent.*
+
+`૮ ˶ᵔ ᵕ ᵔ˶ ა`  `(˶ᵔ ᵕ ᵔ˶)`  `໒꒰ྀི ˶ᵔ ᵕ ᵔ˶ ྀི꒱১`
+
 </div>
