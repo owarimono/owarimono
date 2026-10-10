@@ -95,3 +95,9 @@ A Super Productivity plugin that applies tags automatically based on keywords in
 ## Contact
 
 For questions about a specific project, open an issue in the relevant repository. For anything else, reach out through [GitHub](https://github.com/owarimono).
+
+---
+
+<div align="center">
+  <sub>Built with focus. Maintained with intent. (⌐■_■)</sub>
+</div>
