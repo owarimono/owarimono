@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="saya-vactor.png" alt="Saya" width="220" />
+
 # Owarimono
 
 **Software Developer — Desktop Tooling · Systems · Security · AI**
