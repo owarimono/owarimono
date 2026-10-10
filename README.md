@@ -1,102 +1,41 @@
-<!--
-  PUBLIC PROFILE // UNCLASSIFIED
-  GitHub Profile README for @owarimono
-  Formal developer dossier style.
--->
+# Owarimono
 
-<div align="center">
-
-# OWARIMONO
-
-### SOFTWARE DEVELOPER · SYSTEMS & SECURITY RESEARCH
-
-**PUBLIC PROFILE // UNCLASSIFIED**
-
-[![GitHub](https://img.shields.io/badge/GITHUB-owarimono-181717?style=for-the-badge&logo=github)](https://github.com/owarimono)
-[![Followers](https://img.shields.io/github/followers/owarimono?label=FOLLOWERS&style=for-the-badge&color=181717)](https://github.com/owarimono)
-[![Stars](https://img.shields.io/github/stars/owarimono?label=STARS&style=for-the-badge&color=181717)](https://github.com/owarimono?tab=stars)
-
-</div>
+Software developer focused on building lightweight desktop tools, with a growing interest in systems programming, network security, and artificial intelligence.
 
 ---
 
-## I. IDENTIFICATION
+## About
 
-**Designation:** Owarimono  
-**Role:** Software Developer  
-**Focus Areas:** Desktop Tooling · Systems Programming · Network Security · Artificial Intelligence  
-**Status:** Active — Open to Collaboration
+I develop small, efficient applications that solve specific problems well. My primary focus is on desktop utilities — tools that are fast, minimal in dependencies, and pleasant to use. Alongside this, I am expanding my foundations in low-level programming, Unix-like operating systems, security, and machine learning.
 
 ---
 
-## II. MISSION STATEMENT
+## Currently Learning
 
-To design, develop, and maintain lightweight, reliable, and efficient software that addresses real-world operational requirements. The objective is to produce tools that are minimal in footprint, high in performance, and intuitive in operation.
-
----
-
-## III. AREAS OF INTEREST & ACTIVE RESEARCH
-
-| Domain | Description |
-|--------|-------------|
-| **C Programming** | Systems-level development, memory management, low-level optimization, and POSIX interfaces. |
-| **Linux & FreeBSD** | Operating system internals, kernel concepts, system administration, networking stack, and hardening. |
-| **Network Security** | Protocol analysis, threat modeling, defensive configurations, monitoring, and secure architecture. |
-| **Neural Networks & AI** | Fundamental architectures, model design, training pipelines, and practical applications. |
-| **Desktop Application Development** | Cross-platform utilities, automation, and user-centric tooling. |
+| Area | Focus |
+|------|-------|
+| **C** | Systems programming, memory management, POSIX interfaces |
+| **Linux & FreeBSD** | Operating system internals, administration, networking stack, hardening |
+| **Network Security** | Protocol analysis, defensive configuration, secure architecture |
+| **Neural Networks & AI** | Model fundamentals, training pipelines, applied work |
 
 ---
 
-## IV. TECHNICAL COMPETENCIES
+## Projects
 
-### Languages
-- Python
-- JavaScript / TypeScript
-- C
-- HTML / CSS
-- Shell Scripting
+### Pixeldoro
+A lightweight, always-on-top Pomodoro timer for Windows with a pixel-art interface.
 
-### Frameworks & Runtimes
-- Electron
-- Node.js
-- Pygame
-- POSIX / Unix-like Environments
-
-### Systems & Security
-- Linux
-- FreeBSD
-- Git
-- Network Fundamentals
-- Security Hardening
-
-### Artificial Intelligence
-- Neural Network Fundamentals
-- Model Experimentation
-- Data Processing
-
----
-
-## V. OPERATIONAL PROJECTS
-
-### PROJECT: PIXELDORO
-**Classification:** Desktop Utility · Productivity  
-**Repository:** [github.com/owarimono/Pixeldoro](https://github.com/owarimono/Pixeldoro)
-
-A lightweight, always-on-top Pomodoro timer for Windows featuring a pixel-art interface.
-
-- Single executable (~14 MB) with minimal dependencies
-- 60 FPS rendering with near-zero CPU utilization
+- Single executable (~14 MB) with one dependency (pygame)
+- 60 FPS with near-zero CPU usage
 - Borderless, draggable, always-on-top window (360×220)
 - Configurable focus, short break, long break, and cycle durations
 
-**Technologies:** Python · Pygame · PyInstaller
+`Python` · `Pygame` · `PyInstaller` — [Repository](https://github.com/owarimono/Pixeldoro)
 
 ---
 
-### PROJECT: RENAMER
-**Classification:** Desktop Utility · Automation  
-**Repository:** [github.com/owarimono/Renamer](https://github.com/owarimono/Renamer)
-
+### Renamer
 An automatic file renaming and numbering tool with live folder monitoring.
 
 - Real-time folder watching and instant renaming
@@ -104,63 +43,55 @@ An automatic file renaming and numbering tool with live folder monitoring.
 - Live preview of the next six filenames
 - Bilingual interface (English / Persian) with RTL support
 
-**Technologies:** Electron · Node.js · Chokidar
+`Electron` · `Node.js` · `Chokidar` — [Repository](https://github.com/owarimono/Renamer)
 
 ---
 
-### PROJECT: AUTO TAG MANAGER
-**Classification:** Plugin · Productivity  
-**Repository:** [github.com/owarimono/super-productivity-auto-tag](https://github.com/owarimono/super-productivity-auto-tag)
-
-A Super Productivity plugin that automatically applies tags based on task title keywords.
+### Auto Tag Manager
+A Super Productivity plugin that applies tags automatically based on keywords in task titles.
 
 - Automatic tagging on task creation and edit
 - Regular expression pattern support
-- Native UI integration with light and dark themes
-- Statistics, import, and export capabilities
+- Native UI integration for light and dark themes
+- Statistics, import, and export
 
-**Technologies:** JavaScript · HTML · Super Productivity Plugin API
-
----
-
-## VI. CURRENT DEVELOPMENT DIRECTIVES
-
-| Directive | Objective |
-|-----------|-----------|
-| **C Language Proficiency** | Advance systems programming capabilities and low-level development. |
-| **Linux & FreeBSD Research** | Study kernel architecture, system administration, and Unix-like operating systems. |
-| **Network Security** | Develop expertise in defensive security, protocol analysis, and secure system design. |
-| **Neural Networks & AI** | Build foundational knowledge in model architecture, training, and applied AI. |
+`JavaScript` · `HTML` · `Super Productivity Plugin API` — [Repository](https://github.com/owarimono/super-productivity-auto-tag)
 
 ---
 
-## VII. GITHUB METRICS
+## Tools & Technologies
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Platforms & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=owarimono&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+![Stats](https://github-readme-stats.vercel.app/api?username=owarimono&show_icons=true&hide_border=true&title_color=0366d6&icon_color=0366d6&text_color=24292e)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owarimono&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=owarimono&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owarimono&layout=compact&hide_border=true&title_color=0366d6&text_color=24292e)
 
 </div>
 
 ---
 
-## VIII. CONTACT & COLLABORATION
+## Contact
 
-**Channel:** [GitHub Issues](https://github.com/owarimono)  
-**Availability:** Open to open-source collaboration and technical discussion.
-
-For project-specific inquiries, please open an issue in the relevant repository.
-
----
-
-<div align="center">
-
-**PUBLIC PROFILE // UNCLASSIFIED**
-
-*This document is a personal developer profile. No government or intelligence agency affiliation is claimed or implied.*
-
-</div>
+For questions about a specific project, open an issue in the relevant repository. For anything else, reach out through [GitHub](https://github.com/owarimono).
