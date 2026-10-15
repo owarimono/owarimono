@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Owarimono;Software+Developer;Systems+%C2%B7+Security+%C2%B7+AI" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/owarimono/owarimono/main/saya-vactor.png" width="180" alt="Owarimono" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Owarimono;Software+Developer;Systems+%C2%B7+Security+%C2%B7+AI" alt="Typing SVG" />
 
 <br>
 
@@ -11,6 +15,8 @@
 </div>
 
 <br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <table align="center" border="0" width="100%">
 <tr>
@@ -50,6 +56,8 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 <br>
 
 <div align="center">
@@ -65,15 +73,23 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 <br>
 
 <div align="center">
 
 ### ˗ˏˋ Now Playing ˎˊ˗
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgy2lyxorbe25gewirgbp5lfoe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=bee4d4&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgy2lyxorbe25gewirgbp5lfoe&redirect=true)
+<br>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgy2lyxorbe25gewirgbp5lfoe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=bee4d4&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgy2lyxorbe25gewirgbp5lfoe&redirect=true)
+
+<sub><i>Streaming live from Spotify · Updated in real-time</i></sub>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <br>
 
