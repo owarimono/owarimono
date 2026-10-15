@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/owarimono/owarimono/main/saya-vactor.png" width="180" alt="Owarimono" />
+<img src="https://raw.githubusercontent.com/owarimono/owarimono/main/saya-vactor.png" width="160" alt="Owarimono" />
 
 <br><br>
 
@@ -16,13 +16,13 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+---
 
 <table align="center" border="0" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### ˗ˏˋ Profile ˎˊ˗
+### Profile
 
 **Role**  ·  Software Developer  
 **Focus**  ·  Systems · Security · AI  
@@ -35,7 +35,7 @@
 </td>
 <td width="50%" valign="top" align="center">
 
-### ˗ˏˋ Stack ˎˊ˗
+### Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,20 +49,22 @@
 </tr>
 </table>
 
+---
+
 <div align="center">
 
-> Building focused software that does one thing well — fast, minimal, dependable.
-> Currently deepening my foundations in systems programming, Unix internals, network security, and machine learning.
+Building focused software that does one thing well — fast, minimal, dependable.  
+Currently deepening my foundations in systems programming, Unix internals, network security, and machine learning.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<br>
+---
 
 <div align="center">
 
-### ˗ˏˋ Metrics ˎˊ˗
+### Metrics
+
+<br>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=owarimono&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&card_width=420" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owarimono&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&card_width=380" />
@@ -73,25 +75,19 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<br>
+---
 
 <div align="center">
 
-### ˗ˏˋ Now Playing ˎˊ˗
+### Now Playing
 
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgy2lyxorbe25gewirgbp5lfoe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=bee4d4&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgy2lyxorbe25gewirgbp5lfoe&redirect=true)
 
-<sub><i>Streaming live from Spotify · Updated in real-time</i></sub>
-
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<br>
+---
 
 <div align="center">
 
@@ -99,8 +95,6 @@
 
 <br><br>
 
-<i>Built with focus. Maintained with intent.</i>
-
-`૮ ˶ᵔ ᵕ ᵔ˶ ა`
+<i>Built with focus. Maintained with intent.</i> &nbsp; `૮ ˶ᵔ ᵕ ᵔ˶ ა`
 
 </div>
