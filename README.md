@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://t.me/Whenwecry"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" /></a>
+<a href="https://open.spotify.com/user/31vgy2lyxorbe25gewirgbp5lfoe"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=owarimono&label=views&color=58A6FF&style=flat-square" />
 
 </div>
@@ -71,9 +71,7 @@
 
 ### ˗ˏˋ Now Playing ˎˊ˗
 
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
-</a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgy2lyxorbe25gewirgbp5lfoe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=bee4d4&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgy2lyxorbe25gewirgbp5lfoe&redirect=true)
 
 </div>
 
