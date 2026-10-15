@@ -12,24 +12,22 @@
 
 <br>
 
-<table align="center" border="0">
+<table align="center" border="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ### ˗ˏˋ Profile ˎˊ˗
 
-```ts
-const owarimono = {
-  role     : "Software Developer",
-  focus    : ["Systems", "Security", "AI"],
-  stack    : ["C", "Python", "JavaScript"],
-  systems  : ["Linux", "FreeBSD"],
-  principle: "Small tools. Sharp edges. No bloat."
-};
-```
+**Role**  ·  Software Developer  
+**Focus**  ·  Systems · Security · AI  
+**Stack**  ·  C · Python · JavaScript  
+**Systems**  ·  Linux · FreeBSD  
+
+**Principle**  
+> _Small tools. Sharp edges. No bloat._
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### ˗ˏˋ Stack ˎˊ˗
 
