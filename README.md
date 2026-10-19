@@ -16,7 +16,11 @@ Linux & Systems Software Developer
 
 ## About
 
-Systems software developer specialising in Linux. My work centres on compact, single-purpose utilities and on the low-level plumbing that supports them: a Telegram service that ties a virtual plant's survival to a daily screen-time budget, a directory-watching daemon that renames incoming files against a user-defined pattern, and a frameless desktop timer engineered for minimal CPU and memory footprint. In parallel I develop and maintain **SayaOS**, an Arch-based distribution with its own package manager, boot configuration and reproducible ISO build pipeline.
+Systems software developer working primarily on Linux, with a focus on the layer between the kernel and the desktop: distribution engineering, service management, boot-time infrastructure, and the small utilities layered on top of it.
+
+Projects usually start from a specific irritation — a tool that does not exist, or one that is far heavier than the job it is asked to do. **SayaOS** began as an attempt to understand what actually happens between power-on and a login prompt: package manager, boot chain, image builder and all. **Sprig**, **Pixeldoro** and **Renamer** exist because the alternatives were either absent or absurdly large for what they do. The FlyWire connectome work exists because simulating a system teaches it faster than reading about it does.
+
+The repository list suggests a straightforward pattern: I build whatever catches my attention, and I carry it through until it runs. The standing constraint is that it works on my own machine first, with few dependencies and no ceremony.
 
 ## Languages I Work With
 
@@ -49,8 +53,8 @@ Cloudflare Workers for serverless components, Docker for reproducible build envi
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owarimono&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=owarimono&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
-<img src="https://streak-stats.demolab.com/?user=owarimono&theme=tokyonight&hide_border=true" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=owarimono&theme=tokyonight" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=owarimono&theme=tokyonight" />
 
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owarimono&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" />
 <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owarimono&theme=tokyonight&utcOffset=3.5" />
