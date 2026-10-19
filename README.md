@@ -53,10 +53,7 @@ Cloudflare Workers for serverless components, Git as the single version-control 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owarimono&theme=tokyonight" />
 
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=owarimono&theme=tokyonight" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=owarimono&theme=tokyonight" />
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owarimono&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&exclude_repo=adoos-website,super-productivity-auto-tag,Renamer,my-sub" />
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owarimono&theme=tokyonight&utcOffset=3.5" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owarimono&theme=tokyonight&utcOffset=3.5" />
 
 ### Now Playing
 
