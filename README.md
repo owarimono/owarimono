@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/owarimono/owarimono/main/saya-vactor.png" width="110" alt="Owarimono" />
+<img src="https://raw.githubusercontent.com/owarimono/owarimono/main/saya-vactor.png" width="200" alt="Owarimono" />
 
 # Cecropia
 
