@@ -18,9 +18,9 @@ Linux & Systems Software Developer
 
 Systems software developer working primarily on Linux, with a focus on the layer between the kernel and the desktop: distribution engineering, service management, boot-time infrastructure, and the small utilities layered on top of it.
 
-Projects usually start from a specific irritation: a tool that does not exist, or one far heavier than the job it is asked to do. Most of what I build is an attempt to understand a layer of the system properly — taking it apart far enough that rebuilding it myself becomes the only way to be certain I understand it.
+Most projects begin at a gap: a tool that does not exist, or one considerably heavier than the work it performs. The method that follows is usually the same — take the layer apart far enough that rebuilding it becomes the only way to be certain it is understood.
 
-My repository list follows a straightforward pattern: I build whatever catches my attention, and I carry it through until it runs. The standing constraint is that it works on my own machine first, with few dependencies and no ceremony.
+The repository list is best read as a record of systems I wanted to understand from the inside rather than as a product portfolio. One constraint applies throughout: it has to work on my own machine first, with minimal dependencies and nothing included on the chance it might be useful later.
 
 ## Languages I Work With
 
@@ -43,9 +43,9 @@ Arch Linux and BlackArch as primary environments. Hand-written systemd units and
 
 ## Cloud & Services
 
-<img src="https://skillicons.dev/icons?i=docker,cloudflare,git,github,linux,flutter&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,git,github,linux,android&theme=dark&perline=6" />
 
-Cloudflare Workers for serverless components, Docker for reproducible build environments, Git for version control across all projects. Supplementary Android development in Kotlin with Jetpack Compose.
+Cloudflare Workers for serverless components, Docker for reproducible build environments, Git as the single version-control workflow across all projects. Android work runs alongside this, in Kotlin and Jetpack Compose.
 
 <div align="center">
 
