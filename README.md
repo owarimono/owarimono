@@ -18,9 +18,9 @@ Linux & Systems Software Developer
 
 Systems software developer working primarily on Linux, with a focus on the layer between the kernel and the desktop: distribution engineering, service management, boot-time infrastructure, and the small utilities layered on top of it.
 
-Projects usually start from a specific irritation — a tool that does not exist, or one that is far heavier than the job it is asked to do. **SayaOS** began as an attempt to understand what actually happens between power-on and a login prompt: package manager, boot chain, image builder and all. **Sprig**, **Pixeldoro** and **Renamer** exist because the alternatives were either absent or absurdly large for what they do. The FlyWire connectome work exists because simulating a system teaches it faster than reading about it does.
+Projects usually start from a specific irritation: a tool that does not exist, or one far heavier than the job it is asked to do. Most of what I build is an attempt to understand a layer of the system properly — taking it apart far enough that rebuilding it myself becomes the only way to be certain I understand it.
 
-The repository list suggests a straightforward pattern: I build whatever catches my attention, and I carry it through until it runs. The standing constraint is that it works on my own machine first, with few dependencies and no ceremony.
+My repository list follows a straightforward pattern: I build whatever catches my attention, and I carry it through until it runs. The standing constraint is that it works on my own machine first, with few dependencies and no ceremony.
 
 ## Languages I Work With
 
