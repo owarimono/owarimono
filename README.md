@@ -49,11 +49,11 @@ Cloudflare Workers for serverless components, Docker for reproducible build envi
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owarimono&theme=tokyonight" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=owarimono&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&card_width=400" />
-<img height="165" src="https://streak-stats.demolab.com/?user=owarimono&theme=tokyonight&hide_border=true&card_width=400" />
+<img src="https://github-readme-stats.vercel.app/api?username=owarimono&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
+<img src="https://streak-stats.demolab.com/?user=owarimono&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owarimono&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&card_width=400" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owarimono&theme=tokyonight&utcOffset=3.5&card_width=400" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owarimono&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owarimono&theme=tokyonight&utcOffset=3.5" />
 
 ### Now Playing
 
