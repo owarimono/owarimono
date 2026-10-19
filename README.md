@@ -1,62 +1,57 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/owarimono/owarimono/main/saya-vactor.png" width="160" alt="Owarimono" />
+<img src="https://raw.githubusercontent.com/owarimono/owarimono/main/saya-vactor.png" width="110" alt="Owarimono" />
 
-<br><br>
+# Cecropia
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Owarimono;Software+Developer;Systems+%C2%B7+Security+%C2%B7+AI" alt="Typing SVG" />
+Linux & Systems Software Developer
 
-<br>
+[Telegram](https://t.me/Whenwecry) · [Spotify](https://open.spotify.com/user/31vgy2lyxorbe25gewirgbp5lfoe)
 
-<a href="https://t.me/Whenwecry"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
-<a href="https://open.spotify.com/user/31vgy2lyxorbe25gewirgbp5lfoe"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=owarimono&label=views&color=58A6FF&style=flat-square" />
 
 </div>
 
-<br>
-
 ---
 
-<table align="center" border="0" width="100%">
-<tr>
-<td width="50%" valign="top">
+## About
 
-### Profile
+Systems developer working close to the metal on Linux. I build small, sharp tools that do one thing and stay out of the way: a Telegram bot that grows or kills a plant based on your screen time, a folder watcher that renames files the moment they land, a pixel-art Pomodoro that floats above your work at near-idle CPU. Alongside that I maintain **SayaOS**, an Arch-based distro with its own package manager, boot chain and ISO build pipeline.
 
-**Role**  ·  Software Developer  
-**Focus**  ·  Systems · Security · AI  
-**Stack**  ·  C · Python · JavaScript  
-**Systems**  ·  Linux · FreeBSD  
+## Languages I Work With
 
-**Principle**  
-> _Small tools. Sharp edges. No bloat._
+<img src="https://skillicons.dev/icons?i=python,c,kotlin,java,ts,bash,html,css&theme=dark&perline=8" />
 
-</td>
-<td width="50%" valign="top" align="center">
+## Focus
 
-### Stack
+Linux internals and distro engineering — init, packaging, boot chain, filesystem layouts. Automation and desktop tooling built to be portable and dependency-free. Applied machine learning on biological data: connectome simulation on the FlyWire *Drosophila* dataset, and conditioning embodied agents through reward learning instead of hand-written control scripts. Principle: small tools, sharp edges, no bloat.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Systems & Infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-Daily%20Driver-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-Security%20Tooling-000000?style=for-the-badge&logo=linux&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-Services%20%26%20Units-000000?style=for-the-badge&logo=systemd&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-Editor-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-VM%20Testing-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![GRUB](https://img.shields.io/badge/GRUB-Boot%20Chain-3B6C42?style=for-the-badge&logo=gnu&logoColor=white)
 
-</td>
-</tr>
-</table>
+Arch and BlackArch on bare metal, systemd units and packaging by hand, bootloader and initramfs work for custom images, and QEMU for testing what I build before it touches a disk.
 
----
+## Cloud & Services
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,git,github,linux,flutter&theme=dark&perline=6" />
 
-Building focused software that does one thing well — fast, minimal, dependable.  
-Currently deepening my foundations in systems programming, Unix internals, network security, and machine learning.
+Cloudflare Workers for the small serverless parts, Docker for reproducible builds, Git everywhere. Android app work on the side in Kotlin and Jetpack Compose.
 
-</div>
+## Selected Work
+
+**SayaOS** — Arch-based Unix-like OS: custom GRUB theme, fastfetch branding, jail-style package manager, automated ISO builder.
+
+**Sprig** — a plant that lives in Telegram and measures your screen time. Stay under budget and it levels up; go over and it dies. Cloudflare Worker backend, stdlib-only Python client, zero dependencies.
+
+**Pixeldoro** — always-on-top pixel-art Pomodoro for Windows. Single ~14 MB `.exe`, pygame only, cached surfaces, 60 FPS at near-idle CPU.
+
+**Renamer** — portable Electron app that watches a folder and auto-renames every dropped file against your own naming pattern. Bilingual EN / فارسی, no install.
 
 ---
 
@@ -64,36 +59,14 @@ Currently deepening my foundations in systems programming, Unix internals, netwo
 
 ### Metrics
 
-<br>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=owarimono&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&card_width=420" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owarimono&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&card_width=380" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=owarimono&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&card_width=420" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owarimono&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&card_width=380" />
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=owarimono&theme=tokyo-night&hide_border=true&area=true&height=250" />
-
-</div>
-
----
-
-<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=owarimono&theme=tokyo-night&hide_border=true&area=true&height=230" />
 
 ### Now Playing
 
-<br>
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgy2lyxorbe25gewirgbp5lfoe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=bee4d4&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgy2lyxorbe25gewirgbp5lfoe&redirect=true)
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://t.me/Whenwecry"><img src="https://img.shields.io/badge/Reach_out-Whenwecry-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-
-<br><br>
 
 <i>Built with focus. Maintained with intent.</i> &nbsp; `૮ ˶ᵔ ᵕ ᵔ˶ ა`
 
