@@ -43,18 +43,6 @@ Arch and BlackArch on bare metal, systemd units and packaging by hand, bootloade
 
 Cloudflare Workers for the small serverless parts, Docker for reproducible builds, Git everywhere. Android app work on the side in Kotlin and Jetpack Compose.
 
-## Selected Work
-
-**SayaOS** — Arch-based Unix-like OS: custom GRUB theme, fastfetch branding, jail-style package manager, automated ISO builder.
-
-**Sprig** — a plant that lives in Telegram and measures your screen time. Stay under budget and it levels up; go over and it dies. Cloudflare Worker backend, stdlib-only Python client, zero dependencies.
-
-**Pixeldoro** — always-on-top pixel-art Pomodoro for Windows. Single ~14 MB `.exe`, pygame only, cached surfaces, 60 FPS at near-idle CPU.
-
-**Renamer** — portable Electron app that watches a folder and auto-renames every dropped file against your own naming pattern. Bilingual EN / فارسی, no install.
-
----
-
 <div align="center">
 
 ### Metrics
