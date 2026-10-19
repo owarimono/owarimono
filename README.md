@@ -24,7 +24,7 @@ The repository list is best read as a record of systems I wanted to understand f
 
 ## Languages I Work With
 
-<img src="https://skillicons.dev/icons?i=python,c,kotlin,java,ts,bash,html,css&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,kotlin,js,bash,css,html&theme=dark&perline=6" />
 
 ## Focus
 
@@ -36,16 +36,15 @@ Linux internals and distribution engineering: init and service management, packa
 ![BlackArch](https://img.shields.io/badge/BlackArch-Security%20Tooling-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![systemd](https://img.shields.io/badge/systemd-Services%20%26%20Units-000000?style=for-the-badge&logo=systemd&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-Primary%20Editor-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![QEMU](https://img.shields.io/badge/QEMU-Image%20Validation-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 ![GRUB](https://img.shields.io/badge/GRUB-Boot%20Chain-3B6C42?style=for-the-badge&logo=gnu&logoColor=white)
 
 Arch Linux and BlackArch as primary environments. Hand-written systemd units and package definitions, bootloader and initramfs configuration for custom images, and QEMU used to validate builds before they reach physical hardware.
 
 ## Cloud & Services
 
-<img src="https://skillicons.dev/icons?i=docker,cloudflare,git,github,linux,android&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=cloudflare,github,git,linux,android&theme=dark&perline=5" />
 
-Cloudflare Workers for serverless components, Docker for reproducible build environments, Git as the single version-control workflow across all projects. Android work runs alongside this, in Kotlin and Jetpack Compose.
+Cloudflare Workers for serverless components, Git as the single version-control workflow across all projects. Android work runs alongside this, in Kotlin and Jetpack Compose.
 
 <div align="center">
 
@@ -56,7 +55,7 @@ Cloudflare Workers for serverless components, Docker for reproducible build envi
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=owarimono&theme=tokyonight" />
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=owarimono&theme=tokyonight" />
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owarimono&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owarimono&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&exclude_repo=adoos-website,super-productivity-auto-tag,Renamer,my-sub" />
 <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owarimono&theme=tokyonight&utcOffset=3.5" />
 
 ### Now Playing
