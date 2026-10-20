@@ -42,7 +42,7 @@ Arch Linux and BlackArch as primary environments. Hand-written systemd units and
 
 ## Cloud & Services
 
-<img src="https://skillicons.dev/icons?i=cloudflare,github,git,linux,android&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=cloudflare,github,git,linux,android,bsd&theme=dark&perline=6" />
 
 <div align="center">
 
