@@ -59,8 +59,6 @@ Arch Linux and BlackArch as primary environments. Hand-written systemd units and
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgy2lyxorbe25gewirgbp5lfoe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=bee4d4&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgy2lyxorbe25gewirgbp5lfoe&redirect=true)
 
-[![Spotify Readme Card](https://live-spotify-readme-card.vercel.app/?theme=tokyo-night)](https://github.com/GautamVhavle/spotify-readme-card)
-
 <i>Engineered deliberately. Maintained consistently.</i> &nbsp; `૮ ˶ᵔ ᵕ ᵔ˶ ა`
 
 </div>
