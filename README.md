@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/owarimono/owarimono/main/saya-vactor.png" width="200" alt="Owarimono" />
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/owarimono/owarimono/main/saya-vactor.png" width="160" alt="Cecropia" />
 
 <h1>Cecropia</h1>
