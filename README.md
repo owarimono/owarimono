@@ -6,10 +6,10 @@
 <h3>Linux &amp; Systems Software Developer</h3>
 
 <p>
-  <a href="https://t.me/Whenwecry"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Whenwecry-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1F2937"></a>
+  <a href="https://t.me/Whenwecry"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Whenwecry-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1F2937"></a>
   <a href="https://open.spotify.com/user/31vgy2lyxorbe25gewirgbp5lfoe"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-Playlists-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1F2937"></a>
-  <a href="https://github.com/owarimono?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/owarimono?style=for-the-badge&label=Followers&color=58A6FF&labelColor=1F2937&logo=github&logoColor=white"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=owarimono&label=Profile%20views&color=58A6FF&style=for-the-badge">
+  <a href="https://github.com/owarimono?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/owarimono?style=for-the-badge&label=Followers&color=3B8FB8&labelColor=1F2937&logo=github&logoColor=white"></a>
+  <img alt="Profile views" height="28" src="https://visitor-badge.laobi.icu/badge?page_id=owarimono.owarimono&left_text=Profile%20views&left_color=1F2937&right_color=2EA44F&style=for-the-badge">
 </p>
 
 </div>
