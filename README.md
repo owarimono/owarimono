@@ -44,8 +44,6 @@ Arch Linux and BlackArch as primary environments. Hand-written systemd units and
 
 <img src="https://skillicons.dev/icons?i=cloudflare,github,git,linux,android&theme=dark&perline=5" />
 
-Cloudflare Workers for serverless components, Git as the single version-control workflow across all projects. Android work runs alongside this, in Kotlin and Jetpack Compose.
-
 <div align="center">
 
 ### Metrics
