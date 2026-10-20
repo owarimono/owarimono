@@ -16,11 +16,13 @@
 
 ## About
 
-Systems software developer working primarily on Linux, with a focus on the layer between the kernel and the desktop: distribution engineering, service management, boot-time infrastructure, and the small utilities layered on top of it.
+Systems software developer working primarily on Linux, with a focus on **the layer between the kernel and the desktop**: distribution engineering, service management, boot-time infrastructure, and the small utilities layered on top of it.
 
 Most projects begin at a gap: a tool that does not exist, or one considerably heavier than the work it performs. The method that follows is usually the same — take the layer apart far enough that rebuilding it becomes the only way to be certain it is understood.
 
-The repository list is best read as a record of systems I wanted to understand from the inside rather than as a product portfolio. One constraint applies throughout: it has to work on my own machine first, with minimal dependencies and nothing included on the chance it might be useful later.
+The repository list is best read as a record of systems I wanted to understand from the inside rather than as a product portfolio. One constraint applies throughout:
+
+> It has to work on my own machine first — minimal dependencies, and nothing included on the chance it might be useful later.
 
 ## Languages I Work With
 
@@ -28,7 +30,9 @@ The repository list is best read as a record of systems I wanted to understand f
 
 ## Focus
 
-Linux internals and distribution engineering: init and service management, package tooling, boot chain and filesystem layout. Automation and desktop tooling written for portability and minimal runtime dependencies. Applied machine learning on biological data, principally connectome simulation on the FlyWire *Drosophila* dataset and reward-driven control of embodied agents in place of hand-authored behaviour scripts.
+- **Linux internals & distribution engineering** — init and service management, package tooling, boot chain, and filesystem layout.
+- **Automation & desktop tooling** — written for portability and minimal runtime dependencies.
+- **Applied machine learning on biological data** — connectome simulation on the FlyWire *Drosophila* dataset, and reward-driven control of embodied agents in place of hand-authored behaviour scripts.
 
 ## Systems & Infrastructure
 
@@ -41,10 +45,12 @@ Linux internals and distribution engineering: init and service management, packa
   <a href="https://neovim.io/"><img alt="Neovim — primary editor" src="https://img.shields.io/badge/Neovim-Primary%20Editor-57A143?style=for-the-badge&labelColor=1F2937&logo=neovim&logoColor=white"></a>
 </p>
 
-Arch Linux and BlackArch as primary environments. Hand-written systemd units and package definitions, bootloader and initramfs configuration for custom images, and QEMU used to validate builds before they reach physical hardware.
+**Arch Linux** and **BlackArch** as primary environments. Hand-written **systemd** units and package definitions, bootloader and initramfs configuration for custom images, and **QEMU** used to validate builds before they reach physical hardware.
+
 ## Cloud & Services
 
 <img src="https://skillicons.dev/icons?i=cloudflare,github,git,linux,androidstudio,bsd&theme=dark&perline=6" />
+
 <div align="center">
 
 ### Metrics
