@@ -24,7 +24,7 @@ The repository list is best read as a record of systems I wanted to understand f
 
 ## Languages I Work With
 
-<img src="https://skillicons.dev/icons?i=python,kotlin,js,bash,css,html&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=rust,c,python,kotlin,js,bash,css,html&theme=dark&perline=8" />
 
 ## Focus
 
