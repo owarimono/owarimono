@@ -32,14 +32,16 @@ Linux internals and distribution engineering: init and service management, packa
 
 ## Systems & Infrastructure
 
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-Primary%20Environment-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![BlackArch](https://img.shields.io/badge/BlackArch-Security%20Tooling-000000?style=for-the-badge&logo=linux&logoColor=white)
-![systemd](https://img.shields.io/badge/systemd-Services%20%26%20Units-000000?style=for-the-badge&logo=systemd&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-Primary%20Editor-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![GRUB](https://img.shields.io/badge/GRUB-Boot%20Chain-3B6C42?style=for-the-badge&logo=gnu&logoColor=white)
+<p align="center">
+  <a href="https://archlinux.org/"><img alt="Arch Linux — primary environment" src="https://img.shields.io/badge/Arch%20Linux-Primary%20Environment-1793D1?style=for-the-badge&labelColor=1F2937&logo=archlinux&logoColor=white"></a>
+  <a href="https://blackarch.org/"><img alt="BlackArch — security tooling" src="https://img.shields.io/badge/BlackArch-Security%20Tooling-8B0000?style=for-the-badge&labelColor=1F2937&logo=linux&logoColor=white"></a>
+  <a href="https://systemd.io/"><img alt="systemd — services & units" src="https://img.shields.io/badge/systemd-Services%20%26%20Units-2B2B2B?style=for-the-badge&labelColor=1F2937&logo=systemd&logoColor=white"></a>
+  <a href="https://www.gnu.org/software/grub/"><img alt="GRUB — boot chain" src="https://img.shields.io/badge/GRUB-Boot%20Chain-3B6C42?style=for-the-badge&labelColor=1F2937&logo=gnu&logoColor=white"></a>
+  <a href="https://www.qemu.org/"><img alt="QEMU — build validation" src="https://img.shields.io/badge/QEMU-Build%20Validation-FF6600?style=for-the-badge&labelColor=1F2937&logo=qemu&logoColor=white"></a>
+  <a href="https://neovim.io/"><img alt="Neovim — primary editor" src="https://img.shields.io/badge/Neovim-Primary%20Editor-57A143?style=for-the-badge&labelColor=1F2937&logo=neovim&logoColor=white"></a>
+</p>
 
 Arch Linux and BlackArch as primary environments. Hand-written systemd units and package definitions, bootloader and initramfs configuration for custom images, and QEMU used to validate builds before they reach physical hardware.
-
 ## Cloud & Services
 
 <img src="https://skillicons.dev/icons?i=cloudflare,github,git,linux,androidstudio,bsd&theme=dark&perline=6" />
