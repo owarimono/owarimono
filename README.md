@@ -50,7 +50,7 @@ Arch Linux and BlackArch as primary environments. Hand-written systemd units and
 
 ### Metrics
 
-<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owarimono&theme=tokyonight" />
+<img width="81%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owarimono&theme=tokyonight" />
 
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=owarimono&theme=tokyonight" />
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owarimono&theme=tokyonight&utcOffset=3.5" />
