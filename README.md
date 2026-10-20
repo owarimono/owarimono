@@ -14,7 +14,6 @@
 <img src="https://komarev.com/ghpvc/?username=owarimono&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views" />
 
 </div>
----
 
 ## About
 
